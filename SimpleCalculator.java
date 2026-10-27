@@ -3,7 +3,7 @@ package edu.zuj.oop.week2.lecture2;
 import java.util.Scanner;
 
 
-public class O1 {
+public class SimpleCalculator {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
